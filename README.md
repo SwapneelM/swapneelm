@@ -30,4 +30,4 @@ I've received some recognition over the years:
 I managed to land a couple of nice internships (although it's super-sad that I couldn't do them all) and wrote a guide for students at the [undergraduate](https://medium.com/@swapneel_mehta/the-cern-openlab-internship-experience-questionnaire-included-67d995893bea) and [graduate](https://swapneelm.github.io/interview-advice-for-research-internships-in-data-science) level. I'm also working on a book about engineering education in India at the undergraduate level, hopefully coming out in 2022!
 
 
-- 📫 How to reach me: Email/LinkedIn (add a note!) is best :)
+- 📫 How to reach me: Email/LinkedIn (add a note!)
