@@ -29,6 +29,6 @@ I've received some recognition over the years:
 
 I managed to land a couple of nice internships (although it's super-sad that I couldn't do them all) and wrote a guide for students at the [undergraduate](https://medium.com/@swapneel_mehta/the-cern-openlab-internship-experience-questionnaire-included-67d995893bea) and [graduate](https://swapneelm.github.io/interview-advice-for-research-internships-in-data-science) level. I'm also working on a book about engineering education in India at the undergraduate level, hopefully coming out in 2022!
 
-[![Swapneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=swaapneelm)](https://github.com/anuraghazra/github-readme-stats)
+[![Swapneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapneelm)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/swapneelm/) or Email (firstname [dot] lastname [at] nyu [dot] edu)
