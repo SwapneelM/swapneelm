@@ -21,4 +21,4 @@ I managed to land a couple of nice internships (although it's super-sad that I c
 
 [![Swapneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapneelm)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/swapneelm/) or Email (firstname [dot] lastname [at] nyu [dot] edu)
+- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/swapneelm/) or Email (firstname [at] mit [dot] edu)
